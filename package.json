@@ -1,0 +1,14 @@
+{
+  "name": "kafka-app",
+  "version": "1.0.0",
+  "description": "Apache Kafka app for learning",
+  "main": "index.js",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Puneet Gaddi",
+  "license": "MIT"
+}
